@@ -46,13 +46,14 @@ Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, 
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express-js.svg" alt="Express.js" width="55" height="55" style="background-color: white; border-radius: 50%; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express-js.svg" alt="Express.js" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="55" height="55"/>
 
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
 </div>
+
 
 
 
