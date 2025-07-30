@@ -5,6 +5,10 @@ Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, 
 
 ---
 
+
+
+
+
 ### 💼 What I Do
 - 🖥️ Develop full-stack web applications using **JavaScript** and modern frameworks
 - 🌱 Learning and applying **MERN stack** concepts in real-world projects
@@ -13,6 +17,8 @@ Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, 
 
 ---
 
+
+
 ### 🛠️ Tech I Work With
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js ,SpringBoot
@@ -20,6 +26,9 @@ Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, 
 - **Tools:** Git, GitHub, Postman, VS Code ,IntelIJ 
 
 ---
+
+
+
 
 ### 🌱 Currently Learning
 - Building production-ready **MERN applications**
