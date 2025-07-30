@@ -29,5 +29,5 @@ Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, 
 ---
 
 ### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/)  
+- [LinkedIn](https://www.linkedin.com/in/nithishp2005/)  
+
