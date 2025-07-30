@@ -29,7 +29,6 @@ Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, 
 - Deployment on **cloud platforms (AWS, Vercel, Render)**  
 
 ---
-
 ## 💻 Tech Stack:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 30px;">
@@ -47,7 +46,7 @@ Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, 
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="55" height="55" style="background-color: white; padding: 6px; border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express-js.svg" alt="Express.js" width="55" height="55" style="background-color: white; border-radius: 50%; padding: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="55" height="55"/>
 
   <!-- Database -->
