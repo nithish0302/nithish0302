@@ -60,11 +60,26 @@ Currently, I'm expanding my skills by learning the **MERN stack (MongoDB, Expres
 
 ## 🐙 My GitHub Profile
 
+<!-- Stats + Languages -->
 <p style="margin-left: 10%;">
-  <a href="https://github.com/nithish0302">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithish0302&theme=tokyonight" alt="Nithish's GitHub Profile"/>
-  </a>
+  <!-- Stats Card (includes private contributions) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nithish0302&count_private=true&show_icons=true&theme=tokyonight" height="170" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish0302&layout=compact&theme=tokyonight" height="170" />
 </p>
+
+<!-- Contribution Graph -->
+<p style="margin-left: 10%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithish0302&theme=tokyonight" />
+</p>
+
+<!-- Snake Contribution Animation -->
+<p style="margin-left: 10%;">
+  <img src="https://github.com/nithish0302/nithish0302/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 
 ---
 
