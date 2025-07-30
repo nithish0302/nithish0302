@@ -6,11 +6,15 @@ Currently, I'm expanding my skills by learning the **MERN stack (MongoDB, Expres
 ---
 
 ## 👨‍💻 About Me
+<div style="margin-left: 10%;">
+  
 - ☕ Develop backend applications with **Java (Spring Boot)**  
 - 🖥️ Build responsive UIs with **React**, **HTML**, **CSS**, and **JavaScript**  
 - ⚡ Work with **REST APIs**, databases, and microservices  
 - 🌱 Currently learning full-stack development with the **MERN stack** and **Docker**  
 - 🎯 Goal: Become a highly skilled software architect and contribute to open-source projects  
+
+</div>
 
 ---
 
@@ -54,6 +58,20 @@ Currently, I'm expanding my skills by learning the **MERN stack (MongoDB, Expres
 
 ---
 
+## 🐙 My GitHub Profile
+
+<p style="margin-left: 10%;">
+  <a href="https://github.com/nithish0302">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithish0302&theme=tokyonight" alt="Nithish's GitHub Profile"/>
+  </a>
+</p>
+
+---
+
 ## 📫 Connect With Me
+<div style="margin-left: 10%;">
+  
 - [LinkedIn](https://www.linkedin.com/)  
 - [GitHub](https://github.com/nithish0302)
+
+</div>
