@@ -1,35 +1,20 @@
-## 👋 Hey, I'm Nithish!
+# 👋 Hey, I'm Nithish!
 
-I'm a Student
-
-I'm a **Full Stack Developer** passionate about building web applications that are clean, scalable, and user-friendly.  
-Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, Node.js)** to build dynamic full-stack projects.
+I'm a **Java Full Stack Developer** passionate about building scalable and high-performance web applications.  
+Currently, I'm expanding my skills by learning the **MERN stack (MongoDB, Express.js, React, Node.js)** and **Docker** to work with modern, production-ready full-stack projects.
 
 ---
 
-### 💼 What I Do
-- 🖥️ Develop full-stack web applications using **JavaScript** and modern frameworks
-- 🌱 Learning and applying **MERN stack** concepts in real-world projects
-- ⚡ Work with REST APIs, authentication, and database design
-- 💡 Strong focus on clean code and performance optimization
+## 👨‍💻 About Me
+- ☕ Develop backend applications with **Java (Spring Boot)**  
+- 🖥️ Build responsive UIs with **React**, **HTML**, **CSS**, and **JavaScript**  
+- ⚡ Work with **REST APIs**, databases, and microservices  
+- 🌱 Currently learning full-stack development with the **MERN stack** and **Docker**  
+- 🎯 Goal: Become a highly skilled software architect and contribute to open-source projects  
 
 ---
 
-### 🛠️ Tech I Work With
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js ,SpringBoot
-- **Database:** MongoDB ,SQL 
-- **Tools:** Git, GitHub, Postman, VS Code ,IntelIJ 
-
----
-
-### 🌱 Currently Learning
-- Building production-ready **MERN applications**
-- Authentication (JWT, OAuth) and state management (Redux, Context API)
-- Deployment on **cloud platforms (AWS, Vercel, Render)**  
-
----
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 30px;">
 
@@ -52,14 +37,29 @@ Currently, I'm focusing on mastering the **MERN stack (MongoDB, Express, React, 
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
 </div>
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=tokyonight" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
+---
 
-
-### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/nithishp2005/)  
-
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/)  
+- [GitHub](https://github.com/YOUR-USERNAME)
