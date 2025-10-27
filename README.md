@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nithish!
 
-I'm a **Java Full Stack Developer** passionate about building scalable and high-performance web applications.  
+I'm a **Full Stack Developer** passionate about building scalable and high-performance web applications.  
 Currently, I'm expanding my skills by learning the **MERN stack (MongoDB, Express.js, React, Node.js)** and **Docker** to work with modern, production-ready full-stack projects.
 
 ---
